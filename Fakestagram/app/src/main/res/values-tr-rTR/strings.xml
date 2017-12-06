@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fakestagram</string>
+    <string name="user_name">Kullanıcı Adı</string>
+    <string name="password">Parola</string>
+    <string name="login">Giriş Yap</string>
+    <string name="mail">Email</string>
+</resources>
